@@ -36,5 +36,5 @@ A robot prepared at the University of Rojava by a team of three people.
  </ul>
  ## CAD Design
 
-      ![Screenshot 2022-06-04 223946](https://github.com/user-attachments/assets/96df7e3a-4668-492f-a072-d8504dfb64e6)
+![Screenshot 2022-06-04 223946](https://github.com/user-attachments/assets/96df7e3a-4668-492f-a072-d8504dfb64e6.png)
 
