@@ -29,7 +29,14 @@ A robot prepared at the University of Rojava by a team of three people.
  ## Software
  <ul>
   <li>Solidworks</li>
+
   <li>Matlab</li>
   <li>Arduino IDE</li>
   <li>Mit App Inventor</li>
+ </ul>
+ ## CAD Design
+ <ul>
+   <li>
+      ![Screenshot 2022-06-04 223946](https://github.com/user-attachments/assets/96df7e3a-4668-492f-a072-d8504dfb64e6)
+   </li>
  </ul>
