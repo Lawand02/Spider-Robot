@@ -34,6 +34,7 @@ A robot prepared at the University of Rojava by a team of three people.
   <li>Arduino IDE</li>
   <li>Mit App Inventor</li>
  </ul>
+ 
  ## CAD Design
 
 ![Screenshot 2022-06-04 223946](https://github.com/user-attachments/assets/b310d55b-1411-4c3f-be56-a027e81f1b5a)
